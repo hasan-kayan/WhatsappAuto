@@ -7,7 +7,9 @@ import time
 
 time.sleep(5) 
 
-for i in range(200): 
+for i in range(4): 
     auto.typewrite("NABERRRRR ???? ") 
     auto.press("enter") 
     time.sleep(1) 
+    
+    
